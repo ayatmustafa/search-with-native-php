@@ -16,7 +16,7 @@
             <h2>Repository search</h2>
         </div>
         <form id="searchForm" method="post">
-            <input type="text" name="created" class="form-control" id="created"  value="2020-01-01" placeholder="search by created date" >
+            <input type="text" name="created_date" class="form-control" id="created"  value="2020-01-01" placeholder="search by created date" >
             <input type="text" name="language" class="form-control" id="language" value="PHP" placeholder="search by language" >
             <input type="text" name="per_page" class="form-control" id="per_page" value="100" placeholder="items per_page " >
             <input type="text" name="sort" class="form-control" id="sort" value="stars" placeholder="sort by" >
